@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyDragGridViewDemo/MyDragGridViewDemo.iml" filepath="$PROJECT_DIR$/MyDragGridViewDemo/MyDragGridViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NBA.com/NBA.com.iml" filepath="$PROJECT_DIR$/NBA.com/NBA.com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad/ad.iml" filepath="$PROJECT_DIR$/ad/ad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.youoku/com.youoku.iml" filepath="$PROJECT_DIR$/com.youoku/com.youoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview/gridview.iml" filepath="$PROJECT_DIR$/gridview/gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/live.iml" filepath="$PROJECT_DIR$/live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spanner/spanner.iml" filepath="$PROJECT_DIR$/spanner/spanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewgroup/viewgroup.iml" filepath="$PROJECT_DIR$/viewgroup/viewgroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xialalist/xialalist.iml" filepath="$PROJECT_DIR$/xialalist/xialalist.iml" />
+    </modules>
+  </component>
+</project>
